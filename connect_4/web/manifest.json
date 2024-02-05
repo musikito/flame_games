@@ -1,6 +1,6 @@
 {
-    "name": "connect_4",
-    "short_name": "connect_4",
+    "name": "basic",
+    "short_name": "basic",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
